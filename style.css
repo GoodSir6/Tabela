@@ -3,7 +3,7 @@ table, tr, td {
     margin: 5% auto 5%;
 
 }
-tr:hover {background-color: rgb(255, 255, 255);}
+tr:hover {background-color: rgb(116, 87, 87);}
 table {
     width: 50%;
     height: 10%;
@@ -14,6 +14,7 @@ tr {
     width: 5%;
     height: 50px;
     border-radius: 10px;
+    background-color: white;
 }
 
 td {
